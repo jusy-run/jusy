@@ -1,0 +1,16 @@
+{
+	"name": "@jusy/vite",
+	"private": false,
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:jusy-run/jusy.git",
+		"directory": "packages/vite"
+	},
+	"license": "MIT",
+	"homepage": "https://jusy.dev",
+	"version": "0.0.1",
+	"description": "Jusy Vite adapter",
+	"devDependencies": {
+		"vite": "^6.3.5"
+	}
+}

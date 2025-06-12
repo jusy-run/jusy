@@ -1,0 +1,19 @@
+{
+	"name": "@jusy/monorepo",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:jusy-run/jusy.git"
+	},
+	"license": "MIT",
+	"homepage": "https://jusy.dev",
+	"private": true,
+	"version": "0.0.1",
+	"description": "Jusy Monorepo",
+	"workspaces": ["packages/**"],
+	"devDependencies": {
+		"typescript": "^5.8.3"
+	},
+	"dependencies": {
+		"jusy": "^0.0.1"
+	}
+}
